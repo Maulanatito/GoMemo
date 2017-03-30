@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GoMemo</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello GoMemo!</string>
+    <string name="slide_1_desc">The easiest way to save record from your good memories!</string>
+
+    <string name="slide_2_title">Edit Your Memo</string>
+    <string name="slide_2_desc">Change and update record memories!</string>
+
+    <string name="slide_3_title">Delete Your Memo</string>
+    <string name="slide_3_desc">Remove and create new record!</string>
+
+    <string name="slide_4_title">Lets Go!</string>
+    <string name="slide_4_desc">Thank You for installing and Enjoy It!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
